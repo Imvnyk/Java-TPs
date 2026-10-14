@@ -1,0 +1,13 @@
+# Java generated files
+*.class
+bin/
+out/
+target/
+
+# VS Code local settings
+.vscode/
+
+# Eclipse Java files
+.settings/
+.classpath
+.project
